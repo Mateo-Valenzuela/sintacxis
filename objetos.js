@@ -9,7 +9,7 @@ const empleado = {
 }
 
 //Forma tradicional
-const nombre = empleado.nombre
+const n = empleado.nombre
 
 //const gmail = empleado.correo.gmail
 //const outlook = empleado.correo.outlook
