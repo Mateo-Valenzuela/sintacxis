@@ -5,7 +5,7 @@ console.log('Mensaje de prueba: '+n+' fecha de hoy: '+fecha)
 
 //template string
 
-console.log(´
+console.log(`
    Mensaje de prueba: ${1}
    Fecha de hoy: ${fecha}   
-´)
+`)
